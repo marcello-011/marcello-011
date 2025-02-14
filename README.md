@@ -4,6 +4,6 @@
 - 💞️ Eu estou procurando colaborar em: Melhores ideias e soluçoes de problemas
 - 📫 Como chegar até mim: https://www.linkedin.com/in/marcello-nunes-b25b5b2b1
 - 😄 Estudando Ensino Superior em  Análise e Desenvolvimento de Sistemas (ADS)
-- ⚡ Não satisfeito estou entudando por fora tambem
+- ⚡ Não satisfeito estou estudando por fora tambem
 
 
