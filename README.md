@@ -20,8 +20,10 @@ Me chamo Marcello Henrique,tenho 21 anos e sou de São Paulo Capital. Sou Desenv
             src="https://custom-icon-badges.demolab.com/github/followers/marcello-011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
 </div>
----
+
+#
 
 - 👀 Eu estou interessado em estagiar dentro da área de Análise e Desenvolvimento de Sistemas (ADS), especialmente na área de Banco de Dados , python e front
 - 🌱 Eu estou constantemente aprendendo MySQL,Pyhon,HTML5,CSS,PowerBI...
