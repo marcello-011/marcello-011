@@ -67,7 +67,7 @@ Me chamo Marcello Henrique,tenho 21 anos e sou de São Paulo Capital. Sou Desenv
 />
 
 
-
+##
 - 👀 Eu estou interessado em estagiar dentro da área de Análise e Desenvolvimento de Sistemas (ADS), especialmente na área de Banco de Dados , python e front
 - 🌱 Eu estou constantemente aprendendo MySQL,Pyhon,HTML5,CSS,PowerBI...
 - 💞️ Eu estou procurando colaborar em: Melhores ideias e soluçoes de problemas
