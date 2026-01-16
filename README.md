@@ -13,7 +13,7 @@ Me chamo Marcello Henrique,tenho 21 anos e sou de São Paulo Capital. Sou Desenv
             src="https://custom-icon-badges.demolab.com/github/stars/marcello-011?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/marcello-011?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
