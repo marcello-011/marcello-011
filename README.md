@@ -1,5 +1,6 @@
 # 👨‍💻 Marcello Henrique
 **` Desenvolvedor Back-End`**
+
 Me chamo Marcello Henrique,tenho 21 anos e sou de São Paulo Capital. Sou Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas 5ºSemestre, com foco em Python, Data Science e Inteligência Artificial. Possuo experiência com Python, Pandas, NumPy, MySQL, Flask e SQLAlchemy, além de interesse em Machine Learning e automação. Já desenvolvi projetos acadêmicos e pessoais envolvendo análise de dados, backend e integração de sistemas. Busco evoluir constantemente, aprender boas práticas e construir soluções eficientes e escaláveis. Meu perfil profissional "[marcello-nunes](https://www.linkedin.com/in/marcello-nunes-b25b5b2b1/)"
 
 <div>
