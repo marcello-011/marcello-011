@@ -112,6 +112,6 @@ Me chamo Marcello Henrique,tenho 21 anos e sou de São Paulo Capital. Sou Desenv
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcello-011&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcello-011&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
