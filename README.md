@@ -99,9 +99,10 @@ Me chamo Marcello Henrique,tenho 21 anos e sou de São Paulo Capital. Sou Desenv
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcello-011&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcello-011&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<div>
+  <a href="https://github.com/marcello-011">
+  <img height="180em" src="https://github-readme-stats-virid-beta-29.vercel.app/api?username=marcello-011&show_icons=true&theme=dark&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats-virid-beta-29.vercel.app/api/top-langs/?username=marcello-011&layout=compact&theme=dark"/>
 </div>
 
 
